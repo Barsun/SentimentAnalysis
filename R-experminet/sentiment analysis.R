@@ -60,7 +60,7 @@ library(textdata)
 
 devtools::install_github("lchiffon/wordcloud2")
 
-setwd("C:/local/foltder")
+setwd("C:/local/folder")
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token = NULL, access_secret = NULL)
 
